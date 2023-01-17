@@ -18,6 +18,7 @@ from airflow.utils.trigger_rule import TriggerRule # Used to change how an Opera
 from airflow.utils.weekday import WeekDay # Used to determine what day of the week it is
 
 #this is test dag for GH actions to deploy now
+# 2nd Test to check for changes
 """
 This DAG is intended to demonstrate a number of core Apache Airflow concepts that are central to the pipeline
 authoring experience, including the TaskFlow API, Edge Labels, Jinja templating, branching,
